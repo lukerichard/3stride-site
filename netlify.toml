@@ -1,0 +1,5 @@
+# Netlify settings for 3-stride.com
+# Only the "site" folder is published. No build step.
+[build]
+  publish = "site"
+  command = ""
